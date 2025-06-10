@@ -1,0 +1,7 @@
+- create workers
+- create router
+- create device configured with RTP capabilities of router
+- create producer transport on client and server
+- produce on that producer transport and connect
+- create consumer transport
+- connect and recieve from that consumer transport
